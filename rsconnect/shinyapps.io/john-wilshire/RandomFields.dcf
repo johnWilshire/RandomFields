@@ -1,0 +1,12 @@
+name: RandomFields
+title: RandomFields
+username:
+account: john-wilshire
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 228247
+bundleId: 1040182
+url: https://john-wilshire.shinyapps.io/RandomFields/
+when: 1508742151.72478
+asMultiple: FALSE
+asStatic: FALSE
